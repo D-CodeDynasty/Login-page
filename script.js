@@ -1,4 +1,5 @@
 
-function myFunction() {
-    alert("Clone site of Facebook-login page")
+function Function() {
+    alert("Clone site of Facebook-login");
 }
+
