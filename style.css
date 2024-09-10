@@ -7,7 +7,7 @@
 
 body {
     display: flex;
-    height: 100vh;
+    height: 150vh;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -29,7 +29,8 @@ body {
     background-color: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     position: relative;
-    top: -50px;
+    /* top: 50px; */
+    bottom: 180px;
     border-radius: 6px;
 }
 
@@ -219,7 +220,8 @@ a:hover {
     background-color: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     position: relative;
-    top: -50px;
+    /* top: 50px; */
+    bottom: 150px;
     border-radius: 6px;
 }
 
@@ -289,7 +291,8 @@ h3 {
     background-color: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     position: relative;
-    top: 200px;
+    /* top: 10px; */
+    bottom: 60px;
     border-radius: 6px;
 }
 
