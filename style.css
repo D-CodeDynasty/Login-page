@@ -14,7 +14,7 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-#app {
+#app1 {
     width: 240px;
     height: 240px;
     position: absolute;
@@ -268,13 +268,13 @@ h3 {
 
 /* Sign up page */
 
-.app-image {
+.app1-image {
     display: flex;
     align-items: flex-start;
     justify-content: center;
 }
 
-.app-image img {
+.app1-image img {
     width: 300px;
     height: 300px;
     position: absolute;
