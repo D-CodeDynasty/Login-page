@@ -1,6 +1,6 @@
 function showAlert() {
 
-    alert("This site is Clone-site")
+    alert("Welcome to my Site")
 }
 
 
